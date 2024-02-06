@@ -1,2 +1,2 @@
 # javascript
-A dynamic page using html and css and javascript
+A color change task in javascript
