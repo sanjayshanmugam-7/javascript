@@ -1,0 +1,10 @@
+.Background{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 600px;
+}
+select{
+	width:100px;
+	padding: 10px;
+}
